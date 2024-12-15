@@ -26,7 +26,7 @@ const DisplayAlbum = () => {
                     <h2 className='text-5xl font-bold mb-4 md:text-7xl'>{albumData.name}</h2>
                     <h4 className='text-teal-50 font-bold'>{albumData.description}</h4>
                     <p className='mt-3'>
-                        <img className='inline-block w-20' src={assets.spotify_logo} alt="" />
+                        <img className='inline-block w-20' src={assets.auralis_white_logo} alt="" />
                         {/* <b>Spotify</b> */}
                         . 12,561,872 likes
                         . <b> 50 Songs, </b>
